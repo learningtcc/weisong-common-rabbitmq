@@ -1,0 +1,2 @@
+weisong-common-rabbitmq
+=======================
